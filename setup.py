@@ -8,8 +8,6 @@ setup(
     description='pip package example',
     license=__license__,
     author=__author__,
-    # author_email='**@**.co.jp',
-    # url='https://github.com/junion-org/pip_github_test.git',
     keywords='pip example',
     packages=find_packages(),
     install_requires=[],
